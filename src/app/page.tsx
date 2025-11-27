@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Jan— IT Student & Aspiring Fullstackdeveloper",
+  title: "Jan — IT Student & Aspiring Fullstackdeveloper",
   description: "Welcome to my personal website! Learn about me, my projects, and my journey in IT.",
 };
 
